@@ -33,9 +33,10 @@ league_siera = 4.06
 league_k_percent = 22.3
 league_bb_percent = 8.5
 
+# Raw data tests
 names = ["Jacob deGrom", "Luis Perdomo", "Miguel Castro", "Hector Neris"]
-era_minus = [45, 181, 93, 127]  # Lower values indicate better performance
-fip_minus = [49, 106, 116, 97]  # Lower values indicate better performance
+era_minus = [45, 181, 93, 127]  
+fip_minus = [49, 106, 116, 97]  
 siera = [2.78, 4.82, 5.27, 2.28]
 k_percent = [32.2, 18.0, 15.2, 37.7]
 bb_percent = [5.5, 10.1, 13.3, 7.9]
