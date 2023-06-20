@@ -5,7 +5,7 @@ Collection of random data projects
 Messing around with graphs and data from statcast, focused on Jacob deGrom
 
 ## desirability_rate
-Career (K+GB) - (BB+Barrel's) rate of MLB Pitchers. Can be done year by year too, just have to download the specific tables from fangraphs
+6/20/2023 (K+GB+Soft) - (BB+Barrel's+Hard) rate of MLB Pitchers. Can be done year by year too, just have to download the specific tables from fangraphs
 
 ## pga
 Trying to use BeautifulSoup to grab live leaderboard updates for a specific list of players. Does not work
