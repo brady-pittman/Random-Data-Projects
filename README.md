@@ -4,7 +4,7 @@ Collection of random data projects
 ## degrom_data
 Messing around with graphs and data from statcast, focused on Jacob deGrom
 
-## fangraphs
+## desirability_rate
 Career (K+GB) - (BB+Barrel's) rate of MLB Pitchers. Can be done year by year too, just have to download the specific tables from fangraphs
 
 ## pga
