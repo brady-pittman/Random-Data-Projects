@@ -14,4 +14,4 @@ Messing around with graphs and data from statcast, focused on Jacob deGrom
 Trying to use BeautifulSoup to grab live leaderboard updates for a specific list of players. Does not work
 
 ## pitcher_performance_index
-A mess of a program doing some wird pitcher calculations for my own stat. Have to manually enter the data right now.
+A mess of a program doing some weird pitcher calculations for my own stat. Have to manually enter the data right now.
