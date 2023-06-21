@@ -10,6 +10,9 @@ Messing around with graphs and data from statcast, focused on Jacob deGrom
 ## desirability_rate_tbf
 (K+GB+Soft) - (BB+Barrel's+Hard) + (0.04 * tbf_deviation) same as desirability_rate, but with a slight bonus or penalty for batters faced compared to the league average. This is for one year, change the 0.04 to 0.02 for 2015+. It is probably best to seperate data into starters and relievers as it is hard to compare the two due to large gap in batters faced. Now with graph. Just change the data location to the proper file, make sure CSV contains K%, BB%, GB%, Soft%, Hard%, Barrel%, and TBF (easy to do on fangraphs)
 
+## batting_desiribility
+Similar to pitching desiribility for batters. The outcomes are kinda wacky as the average is a negative. (BB+Barrle's+Hard)-(K+GB+Soft) + (0.04 * pa_deviation).
+
 ## pga
 Trying to use BeautifulSoup to grab live leaderboard updates for a specific list of players. Does not work
 
